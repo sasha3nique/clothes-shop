@@ -1,0 +1,11 @@
+{
+  "name": "lyosha-luchshii",
+  "version": "2.2.8",
+  "description": "Не пыздить сука",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
